@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+}
+.add-div {
+  justify-self: end;
+}
+.todo-list {
+  margin-top: 10px;
+}
